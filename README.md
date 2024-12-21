@@ -10,5 +10,5 @@ Página de erro (404) feita com base em estudos, onde aprendo a utilizar animaç
 + FIGMA
 
 ## Layout 🔖
-É possivel acessar esse layout aprtando <a href="https://www.figma.com/design/ZejuuTR6gmu9iE92jhnaVS/P%C3%A1gina-404-%E2%80%A2-Desafio-27-(Community)?node-id=3-811&t=vpU3T4pszye7Peuh-0">AQUI</a>
+É possivel acessar esse layout clicando <a href="https://www.figma.com/design/ZejuuTR6gmu9iE92jhnaVS/P%C3%A1gina-404-%E2%80%A2-Desafio-27-(Community)?node-id=3-811&t=vpU3T4pszye7Peuh-0">AQUI</a>
   
