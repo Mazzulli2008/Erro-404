@@ -2,7 +2,7 @@
 
 https://github.com/user-attachments/assets/5e20e8f5-7aa2-4ff6-91b1-0bac31517f24
 
-Página de erro 404 feita com base em estudos, onde aprendo a utilizar animações/gifs em minhas páginas.
+Página de erro (404) feita com base em estudos, onde aprendo a utilizar animações/gifs em minhas páginas.
 
 ## Ferramentas 🛠️
 + HTML
